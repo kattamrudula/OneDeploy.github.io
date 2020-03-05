@@ -3,8 +3,8 @@
 "ContentText":"Turn off Programs and features",
 "DownloadUrl":"https://example.com/",
 Flags:{
-"Previous":"Enable",
-"Cancel":"Enable",
+"Previous":"true",
+"Cancel":"true",
 "VerifySoftware":"true"
 }
 }
