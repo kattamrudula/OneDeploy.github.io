@@ -1,0 +1,11 @@
+{
+"HeadingText":"ConfigureIIS",
+"ContentText":"Turn off Programs and features",
+"DownloadUrl":"https://example.com/",
+"Parameters":"arg1;arg2",
+Flags:{
+"Previous":"Enable",
+"Cancel":"Enable",
+"VerifySoftware":"true"
+}
+}
