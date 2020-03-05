@@ -4,8 +4,8 @@
 "DownloadUrl":"https://example.com/",
 "Parameters":"arg1;arg2",
 Flags:{
-"Previous":"Enable",
-"Cancel":"Enable",
+"Previous":"true",
+"Cancel":"true",
 "VerifySoftware":"true"
 }
 }
